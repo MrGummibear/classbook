@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+div{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background-image: url("/Bilder/Working.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+}
